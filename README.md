@@ -1,5 +1,5 @@
 # Henry Barrow's PythonSnippets
-This repository contains small python programs and functions I have written for practice
+This repository contains a variety of small python programs and functions I have written for practice
 
 ##Contents:##
 
