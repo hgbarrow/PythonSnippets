@@ -5,6 +5,7 @@ This repository contains a variety of small python programs and functions I have
 
 File Name | Description
 ----------|-------------
+**2048bot.py** | A bot that blindly plays [2048](http://gabrielecirulli.github.io/2048/). Watch it in action [here](https://www.youtube.com/watch?v=v6loG00jBE4).
 **base_converter.py** | This script contains the function converter(n, decimals = 0, base = pi). This function takes a number, n in base 10 and returns it in any base (default is pi) with optional x decimals
 **common_denom.py** | This script contains the functions convertFracts(lst), gcd(a, b), and lcm(a, b). The function convertFracts(lst) conversts a list of fractions to a list of equivalent fractions with common denominators. convertFracts([[1,2], [1,3], [1, 4]]) returns [[6,12], [4,12], [3,12]]
 **fact_base.py** | This script contains two functions: dec2FactString(nb) and factString2Dec(string). These functions are used to convert between the factorial number systerm and base 10 (https://en.wikipedia.org/wiki/Factorial_number_system). 
